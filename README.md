@@ -1,5 +1,5 @@
 ### About me  
-Hi I'm Ahmet Beyazıt süleymanoğlu. I've been developing code for 4 years. I started with scratch and arduino in primary school. and I develop my skils. Today I am studying at YTU Maçka Vocational and Technical Anatolian High School. also I am a software member of [Aero FRC team](https://www.instagram.com/aerofrc/). so join me on my journey to the future🚀  
+Hi I'm Ahmet Beyazıt süleymanoğlu. I've been developing code for 4 years. I started with scratch and arduino in primary school. and I develop my skils. Today I am studying at YTU Macka Vocational and Technical Anatolian High School. also I am a software member of [Aero FRC team](https://www.instagram.com/aerofrc/). so join me on my journey to the future🚀  
   
 
 <br/>  
