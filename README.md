@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/83120547?v=4" align="center" style="width: 100% height:300px" />
-</div>  
-  
-
-
-
 ### About me  
 Hi I'm Ahmet Beyazıt süleymanoğlu. I've been developing code for 4 years. I started with scratch and arduino in primary school. and I develop my skils. Today I am studying at YTU Maçka Vocational and Technical Anatolian High School. also I am a software member of [Aero FRC team](https://www.instagram.com/aerofrc/). so join me on my journey to the future🚀  
   
