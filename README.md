@@ -49,7 +49,7 @@ Hi I'm Ahmet Beyazıt süleymanoğlu. I've been developing code for 4 years. I s
 
 
 
-### DevOps  
+### Robotic  
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
